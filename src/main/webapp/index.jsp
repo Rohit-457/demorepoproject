@@ -48,10 +48,9 @@
 </head>
 <body>
     <div class="container">
-        <h1>Personalized Love Message</h1>
+        <h1>Personal Message for you special</h1>
         <form id="loveForm">
             <input type="text" id="name" placeholder="Enter your name" required>
-            <input type="submit" value="say">
         </form>
         <div class="message" id="message"></div>
     </div>
