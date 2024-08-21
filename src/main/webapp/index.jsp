@@ -51,7 +51,7 @@
         <h1>Personalized Love Message</h1>
         <form id="loveForm">
             <input type="text" id="name" placeholder="Enter your name" required>
-            <input type="submit" value="say ">
+            <input type="submit" value="say">
         </form>
         <div class="message" id="message"></div>
     </div>
@@ -65,4 +65,4 @@
         });
     </script>
 </body>
-</html>o
+</html>
